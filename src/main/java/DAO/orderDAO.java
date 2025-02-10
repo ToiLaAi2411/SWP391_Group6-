@@ -9,5 +9,6 @@ package DAO;
  * @author Nguyen Phu Quy CE180789
  */
 public class orderDAO {
+    int number;
     
 }
