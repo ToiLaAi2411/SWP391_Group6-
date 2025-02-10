@@ -1,1 +1,2 @@
-# SWP391_Group6-
+# SWP391_ToyStoreManagement_Group6
+Group6
