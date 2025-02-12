@@ -6,8 +6,6 @@
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <link rel="stylesheet" href="css/ToyHead.css">
- 
-<link rel="stylesheet" href="css/ToyHead.css">
  <!-- <header class=""> -->
         <div class="row component-1 cover-page">
 
